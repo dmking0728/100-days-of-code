@@ -33,3 +33,13 @@ Today's Progress: Today we finished the toggle switch. The toggle switch was com
 Thoughts: It helps to learn the nitty gritty stuff AKA the "science.
 
 Link to work: http://plnkr.co/edit/Q8V2qN4zPA4fJl99U1JP?p=preview
+
+
+
+DAY 8: FEBRUARY 21 , 2019 
+
+Today's Progress: Today we learned how to manipulagte an object on the DOM which was really just review for me. We also learned how run the debugger in the console. It is SO cool. you place where you want the script to stop running and you can view it in like a play by play fashion and with tons of helpful tools to better understand code you are viewing. 
+
+Thoughts: Can't wait to use the debugger IRL.
+
+Link to work: http://plnkr.co/edit/Q8V2qN4zPA4fJl99U1JP?p=preview
