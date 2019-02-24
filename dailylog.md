@@ -53,3 +53,14 @@ Today's Progress: Today we played around with the debugger statement a bit more.
 Thoughts: Learning how to refactor is diffuclt but it is cool to see your code shrink down.
 
 Link to work: http://plnkr.co/edit/Q8V2qN4zPA4fJl99U1JP?p=preview
+
+
+
+<strong>DAY 10: FEBRUARY 23 , 2019</strong> 
+
+Today's Progress: Today we finished making buttons for each of our todo list's features. I learned about .valueAsNumber when we want a value returned as a number and not a string. We also are starting to move away from displaying everything in the console to the actual webpage. 
+
+Thoughts: Getting a lot more comfortable with the syntax but having a hard time grasping how we need to set up an object or a for loop to achieve a task.
+
+Link to work: http://plnkr.co/edit/Q8V2qN4zPA4fJl99U1JP?p=preview
+
