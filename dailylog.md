@@ -64,3 +64,14 @@ Thoughts: Getting a lot more comfortable with the syntax but having a hard time 
 
 Link to work: http://plnkr.co/edit/Q8V2qN4zPA4fJl99U1JP?p=preview
 
+
+
+<strong>DAY 11: FEBRUARY 24 , 2019</strong> 
+
+Today's Progress: Today we made each li element contain todoText. We also made each li element have an indicator of it's status of completed or not. We learned about .textContent which setds an elements text content to be something. We also learned about .setTimeOut which delays the runnninf of a function. We finally finshed off with learning about forEach which actgs like a for loop and can be run on arrays and is a lot shorter.
+
+Thoughts: This si becoming habit now and I hope it becomes easier for me to write code from scratch.
+
+Link to work: http://plnkr.co/edit/Q8V2qN4zPA4fJl99U1JP?p=preview
+
+
