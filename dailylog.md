@@ -75,3 +75,13 @@ Thoughts: This si becoming habit now and I hope it becomes easier for me to writ
 Link to work: http://plnkr.co/edit/Q8V2qN4zPA4fJl99U1JP?p=preview
 
 
+
+<strong>DAY 12: FEBRUARY 25, 2019</strong> 
+
+Today's Progress: Today we learned that you need to explicitly tell a function to return a value at the end by having a return statement. Higher order fxs are fxs that accept other fxs. Callback fxs are the fxs that get passed into higher order fxs. Passing in "event" as the paramater of a fx will spit out mouseEvent which contains a lot fo info we can work with such as as target and parentNode. 
+
+Thoughts: Learned a lot today.
+
+Link to work: https://glitch.com/edit/#!/knotty-meadowlark?path=public/client.js:111:40
+
+
