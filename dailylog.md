@@ -85,3 +85,13 @@ Thoughts: Learned a lot today.
 Link to work: https://glitch.com/edit/#!/knotty-meadowlark?path=public/client.js:111:40
 
 
+
+<strong>DAY 13: FEBRUARY 26, 2019</strong> 
+
+Today's Progress: Today we made each li item have a dlete button that will appear next to it when we add an item to the list. We learned a bout event delegation. Event delegation is when you place an EL on a parent element and then delegate when to run a function when certain criteria is met within that parent element the EL is on. Example We place an EL on an <ul> and then we specify which element and which fx to run whenver a child element of UL is clicked or interacted with. 
+
+Thoughts: The clarification of event delegation at the end of todays lecture helped a lot. 
+
+Link to work: https://glitch.com/edit/#!/knotty-meadowlark?path=public/client.js:111:40
+
+
