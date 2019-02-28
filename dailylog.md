@@ -95,3 +95,14 @@ Thoughts: The clarification of event delegation at the end of todays lecture hel
 Link to work: https://glitch.com/edit/#!/knotty-meadowlark?path=public/client.js:111:40
 
 
+
+<strong>DAY 14: FEBRUARY 27, 2019</strong> 
+
+Today's Progress: Today we rafactored some code. We had 2 for loops that were code heavy and we refactored them using forEach method. forEach is used to iterate over arrays, just like a for loop, but requires less code. 
+
+Thoughts: I like forEach method because it is much easier to read and understand 
+
+Link to work: https://glitch.com/edit/#!/knotty-meadowlark?path=public/client.js:111:40
+
+
+
