@@ -106,3 +106,15 @@ Link to work: https://glitch.com/edit/#!/knotty-meadowlark?path=public/client.js
 
 
 
+
+<strong>DAY 15: FEBRUARY 28, 2019</strong> 
+
+Today's Progress: Finished the todo lis app by writing one more forEach statement. Then we reviewed using .this in different scenarios. I got REALLY confused towards the end of today's lessona when thinking about callback functions. Spent like an extra hour researching them and I still don't understand them.....
+
+Thoughts: Feeling discouraged becasue I'm tired and giving up trying to understand a callback function for the night. Will continue tomorrow
+
+Link to work: https://glitch.com/edit/#!/knotty-meadowlark?path=public/client.js:111:40
+
+
+
+
