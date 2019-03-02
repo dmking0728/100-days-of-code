@@ -118,3 +118,14 @@ Link to work: https://glitch.com/edit/#!/knotty-meadowlark?path=public/client.js
 
 
 
+<strong>DAY 16: MARCH 2, 2019</strong> 
+
+Today's Progress: Strated a new course called JavaScript30. We built a drumkit. It seems a bit too complex and fast for me. Lot's of questions came up and the teacher is not great.. don't know if I should continue..
+
+Thoughts: May switch courses...not sure
+
+Link to work: https://github.com/dmking0728/drum-kit
+
+
+
+
