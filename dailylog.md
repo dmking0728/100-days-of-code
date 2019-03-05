@@ -128,4 +128,13 @@ Link to work: https://github.com/dmking0728/drum-kit
 
 
 
+<strong>DAY 17: MARCH 4, 2019</strong> 
+
+Today's Progress: I didn't continue with wes bos course as it was tooa dbvanced for me. I am sticking with Brad Traversy course for now. Today we started a new DOM practice project that caluclates your payemnt amount for a loan. toFixed is a method that sets a number value to a decimal it takes in how many deciamls you want as a parameter. parseFLoat also turns a number into a decimal. 
+
+Thoughts: Was feeling discouraged becasue Id din't know what course to take next. Each one i tried was way too advacned for me. Will stick witht this course as it seems well sutied for me and my level.
+
+Link to work: https://github.com/dmking0728/loan-calculator
+
+
 
