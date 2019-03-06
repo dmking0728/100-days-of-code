@@ -138,3 +138,13 @@ Link to work: https://github.com/dmking0728/loan-calculator
 
 
 
+<strong>DAY 18: MARCH 5, 2019</strong> 
+
+Today's Progress: Today we started a new project called the guessing game. You need to guess a number between 1 and 10 and you get 3 trys. I really wanted to use my brain on this one, menaing to try and code it out myself without watching the video. It went...soso. I generated a erandom number from 1-10 on my own but got stuck trying to get user input value and store from the DOM. I was trying to just go directly to th DOM element and grab it when it reality you need to listen for an event (click) and then run a function (store the variable).
+
+Thoughts: Glad I attempted to start porject on my own.
+
+Link to work: https://github.com/dmking0728/number-guessing-game
+
+
+
