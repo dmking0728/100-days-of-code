@@ -148,3 +148,13 @@ Link to work: https://github.com/dmking0728/number-guessing-game
 
 
 
+<strong>DAY 19: MARCH 6, 2019</strong> 
+
+Today's Progress: Today we added more functionality ot the game. We added an if statement to validatge the inputted number abides by or rules (checked to see if a number and if within game range). We also used an if else statement to see if the guess entered matched our winning number or not. We then refactored this code
+
+Thoughts: Followed through on trying to code before wstching the solutiona nd made some more progress. Made an else statement compare our winning number and checked to see if ti matched. Starting to enjoy JS a bit.
+
+Link to work: https://github.com/dmking0728/number-guessing-game
+
+
+
