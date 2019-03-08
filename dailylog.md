@@ -158,3 +158,13 @@ Link to work: https://github.com/dmking0728/number-guessing-game
 
 
 
+
+<strong>DAY 20: MARCH 7, 2019</strong> 
+
+Today's Progress: Finished the number guessing game. Learned the difference between mousedown and click. Click is instant and mouse down happens once mouse button is released. Also learned about event bubbling and hoisting.
+
+Thoughts: I really liked this project
+Link to work: https://github.com/dmking0728/number-guessing-game
+
+
+
