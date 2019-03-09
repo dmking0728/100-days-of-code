@@ -168,3 +168,14 @@ Link to work: https://github.com/dmking0728/number-guessing-game
 
 
 
+
+<strong>DAY 21: MARCH 9, 2019</strong> 
+
+Today's Progress: Today we learned about constructor fxs. A constructor fx is a way to efficiently make objects. We use a capital letter to name the fxs unlike camle case for a normal function. You give the constructor fx parameters and then inside the fx you tell it either what "categories" to have in the fx or you can have the constructor fx runa another fx inside of it (a method). to use a constructor fx you do const example = new NameOfConstructorFx(parameter 1, paramter 2);.
+
+Thoughts: Getting a bit more difficult but just gotta keep pushing through and researching things i dont understand from as many sources as possible. Getting different viewpoints on the same topic helps SO much.
+
+Link to work: NA
+
+
+
