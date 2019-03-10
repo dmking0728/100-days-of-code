@@ -179,3 +179,12 @@ Link to work: NA
 
 
 
+
+<strong>DAY 22: MARCH 10, 2019</strong> 
+
+Today's Progress: Today we continued learning about constructor fxs and dove into prototypes. Each object comes with a built prototype, which is an object itself. These are helpful because we can store methods(AKA fxs) inside of these prototype objects and have other objects inherit these prototype methods (fxs). 
+
+Thoughts: This is getting progressively more challenging but BRING IT ON. 
+
+Link to work: NA
+
