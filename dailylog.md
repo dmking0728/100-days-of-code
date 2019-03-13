@@ -193,9 +193,19 @@ Link to work: NA
 
 <strong>DAY 23: MARCH 11, 2019</strong> 
 
-Today's Progress: Today we learned about the using class. It is an ES6 way of creating a constructor fx. We also learned about extending a class which basically utilizes another constructor fx on a new object instance (blueprint, version whatever you want to call it). you do it by calling the prveiopus the function onto your new instance and then calling super inside of this instance. I also spent sometime refamiliarizing myself with objects and coinstructor fxs. All this new stuff was confusing me so i spent some time looking at hwat an object was again. An object is simply a collection of key value pairs related to a certain main thing ( cup is the object and color: red would be its key value pair). A constructor fxs allows us to create a blueprint to help us build stuff faster. For example a dog constructor fx can give usa solid base to start from and contain some the base key valu pairs related to a basic dog (color, size, breed) then we can create a new instance of this constructor as the base and to it as needed.
+Today's Progress: Today we learned about using class. It is an ES6 way of creating a constructor fx. We also learned about extending a class which basically utilizes another constructor fx on a new object instance (blueprint, version whatever you want to call it). you do it by calling the prveiopus the function onto your new instance and then calling super inside of this instance. I also spent sometime refamiliarizing myself with objects and coinstructor fxs. All this new stuff was confusing me so i spent some time looking at hwat an object was again. An object is simply a collection of key value pairs related to a certain main thing ( cup is the object and color: red would be its key value pair). A constructor fxs allows us to create a blueprint to help us build stuff faster. For example a dog constructor fx can give usa solid base to start from and contain some the base key valu pairs related to a basic dog (color, size, breed) then we can create a new instance of this constructor as the base and to it as needed.
 
 Thoughts: Getting confused but looking back at the fundamentals really helps so i dont get too hung up certain concepts. 
 
 Link to work: NA
+
+
+
+
+<strong>DAY 24: MARCH 12, 2019</strong> 
+
+Today's Progress: We starte d anew project to help reinforce constructor fxs. it a simple book tracking porejct that lets you add a book with title, author and isbn as the main labels.
+
+Thoughts: This projects is confusing me.......will research more on why we did what we did. 
+Link to work: https://github.com/dmking0728/book-list
 
