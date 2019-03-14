@@ -209,3 +209,14 @@ Today's Progress: We starte d anew project to help reinforce constructor fxs. it
 Thoughts: This projects is confusing me.......will research more on why we did what we did. 
 Link to work: https://github.com/dmking0728/book-list
 
+
+
+
+<strong>DAY 25: MARCH 13, 2019</strong> 
+
+Today's Progress: Today we created a prototype to have an alert appear if user did not input anything, if they left a field blank, or if they submitted everything.
+
+Thoughts: This projects is still confusing me.......will research more on why we did what we did. 
+Link to work: https://github.com/dmking0728/book-list
+
+
