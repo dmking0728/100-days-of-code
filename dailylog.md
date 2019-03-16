@@ -222,7 +222,7 @@ Link to work: https://github.com/dmking0728/book-list
 
 
 
-<strong>DAY 25: MARCH 16, 2019</strong> 
+<strong>DAY 26: MARCH 16, 2019</strong> 
 
 Today's Progress: Today we converted our ES5 into ES6. I like how ES6 is visually easier to read than ES5. We then had a bonus lecture where we made our project persist to local storage. This had me really confused..Like i couldnt even folllow along to half of the thing she was saying. 
 
