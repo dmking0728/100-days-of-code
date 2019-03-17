@@ -230,3 +230,19 @@ Thoughts: Finshed the project still confsued on a lot of things.
 Link to work: https://github.com/dmking0728/book-list
 
 
+
+
+<strong>DAY 27: MARCH 17, 2019</strong> 
+
+Today's Progress: Today we learned about working with JSON files. We create an XHR object , then we open the JSON file we will be working with by saying xhr.open('GET', 'filename.json', true); Then we create an onload fx to make sure stauts is 200 (AKA good)and tell it what to do once we have JSON data
+xhr.onload = function() {
+if(this.status === 200){
+  do something with data
+  }
+ }
+JSON is used to load data from a 3rd party asynchronously meaning it doesn't have to reload entire page. 
+
+Thoughts: Learned a lot today. Excited to work more with APIs.
+Link to work: NA
+
+
