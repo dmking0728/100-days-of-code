@@ -246,3 +246,13 @@ Thoughts: Learned a lot today. Excited to work more with APIs.
 Link to work: NA
 
 
+
+
+<strong>DAY 28: MARCH 18, 2019</strong> 
+
+Today's Progress: Today we started a new project to help reinforce working with APIs. We used a chuck norris joke generator API and used it the data we requested from it (GET reuqest) to populate a li. You can choose how many jokes you would like to view. 
+
+Thoughts: For some reason i understand APIs more than prototypes. APIs are pretty cool.
+Link to work: https://github.com/dmking0728/Chuck-Norris
+
+
