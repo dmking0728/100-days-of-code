@@ -256,3 +256,13 @@ Thoughts: For some reason i understand APIs more than prototypes. APIs are prett
 Link to work: https://github.com/dmking0728/Chuck-Norris
 
 
+
+
+<strong>DAY 29: MARCH 20, 2019</strong> 
+
+Today's Progress: Today we learned more about GET requests. we started another project thta will have us working with a mock API and JSon data that replicates user's and their comments. We first built a constructor fx that creates a new XMLHttpRequest(); and then we set a prototype of that constructor fx to .get and it makes a GET request and checks if it reutrns with 200 status. 
+
+Thoughts: I take back my last thought...this is getting more difficult. Onwards!
+Link to work: NA
+
+
