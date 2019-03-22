@@ -266,3 +266,12 @@ Thoughts: I take back my last thought...this is getting more difficult. Onwards!
 Link to work: NA
 
 
+
+
+
+<strong>DAY 30: MARCH 21, 2019</strong> 
+
+Today's Progress: Today we finshed making our basic API request constructor fx. It now can GET, POST, PUT, and DELETE items within the API. At first this was confusing but it's starting to make a bit more sense. 
+Thoughts: I like APIs again lol
+Link to work: NA
+
