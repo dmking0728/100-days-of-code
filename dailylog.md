@@ -275,3 +275,12 @@ Today's Progress: Today we finshed making our basic API request constructor fx. 
 Thoughts: I like APIs again lol
 Link to work: NA
 
+
+
+
+<strong>DAY 31: MARCH 23, 2019</strong> 
+
+Today's Progress: Today we started to learn about promises. I guess it is similar to a callback fx but it makes our code easier to read and doesn;t require us to enst as much. We also learned about fetchAPI and it is just another way to make requests to an api with better syntax.
+Thoughts: Very confused today with the intro of pormises and fetch API. Feeling very doscouraged today. I think i should gear my skill level to be a UI developer instead a a front end developer. It seems a UI developer works mostly with HTMl CSS and ligth JS manipulation which is what i am comfortable with.
+Link to work: NA
+
