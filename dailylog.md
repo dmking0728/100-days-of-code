@@ -284,3 +284,13 @@ Today's Progress: Today we started to learn about promises. I guess it is simila
 Thoughts: Very confused today with the intro of pormises and fetch API. Feeling very doscouraged today. I think i should gear my skill level to be a UI developer instead a a front end developer. It seems a UI developer works mostly with HTMl CSS and ligth JS manipulation which is what i am comfortable with.
 Link to work: NA
 
+
+
+
+
+<strong>DAY 32: MARCH 24, 2019</strong> 
+
+Today's Progress: Today we leanred about arrow fucntions. They are a lot easier to read and write and make our code look neater. We went ahead and converted our old HTTP request constructor and changed into ES6 syntax using class, arrow fxs, promises etc..
+
+Thoughts: Arrow fxs look easy to use. Still struggling with learning about promises and HTTP request.
+Link to work: NA
