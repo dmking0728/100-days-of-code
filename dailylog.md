@@ -294,3 +294,28 @@ Today's Progress: Today we leanred about arrow fucntions. They are a lot easier 
 
 Thoughts: Arrow fxs look easy to use. Still struggling with learning about promises and HTTP request.
 Link to work: NA
+
+
+
+
+<strong>DAY 33: MARCH 25, 2019</strong> 
+
+Today's Progress: Today we learned about async and await. When we need to run code that may clog up other JS code we use asnyc and await to run the slow code asynchronously. We put "async" in front of the function and then we write code with await in fron of it to make it run only once it has completed it's purpose. An example would be:
+
+async function getUsers() {
+  //await response of the fetch call
+  const response = await fetch('https://jsonplaceholder.typicode.com/users');
+  
+  //only proceed once promise is resolved
+  const data = await response.json();
+
+  //only proceed once second promise is resolved
+  return data;
+}
+
+getUsers().then(users => console.log(users));
+
+
+
+Thoughts: This teacher didn't explain it well so i went ahead and did my own research and found an AMAZING article that cleared evrything up for me. 
+Link to work: NA
