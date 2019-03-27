@@ -319,3 +319,15 @@ getUsers().then(users => console.log(users));
 
 Thoughts: This teacher didn't explain it well so i went ahead and did my own research and found an AMAZING article that cleared evrything up for me. 
 Link to work: NA
+
+
+
+
+<strong>DAY 34: MARCH 26, 2019</strong> 
+
+Today's Progress: Today we started a new project where we can search github users by name by calling the github API. Setting up the fetch for the API data is still really confusing.
+
+
+
+Thoughts: It seems like every other day i love/hate JS. Feeling really confused as I know I would never be able to set this up on my own. eventaully I'll get there I suppose.
+Link to work: https://github.com/dmking0728/GithubSearchApp
