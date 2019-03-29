@@ -331,3 +331,13 @@ Today's Progress: Today we started a new project where we can search github user
 
 Thoughts: It seems like every other day i love/hate JS. Feeling really confused as I know I would never be able to set this up on my own. eventaully I'll get there I suppose.
 Link to work: https://github.com/dmking0728/GithubSearchApp
+
+
+
+<strong>DAY 35: MARCH 28, 2019</strong> 
+
+Today's Progress: Today we fine tuned the github search web app. We now have ui.js file that handles everyhting to do with outputting html onto the page. We created a UI constructor fx that does a lot of the work on DOM manipulating. 
+
+
+Thoughts: I followed this lecture a bit more since it was mostly DOM manipulation. 
+Link to work: https://github.com/dmking0728/GithubSearchApp
