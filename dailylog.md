@@ -341,3 +341,14 @@ Today's Progress: Today we fine tuned the github search web app. We now have ui.
 
 Thoughts: I followed this lecture a bit more since it was mostly DOM manipulation. 
 Link to work: https://github.com/dmking0728/GithubSearchApp
+
+
+
+
+<strong>DAY 36: MARCH 30, 2019</strong> 
+
+Today's Progress: Today we finshed up the gihub search app by creating a ui function that outputs repos, followers, and forks. 
+
+Thoughts: APIs are difficult.
+Link to work: https://github.com/dmking0728/GithubSearchApp
+
