@@ -352,3 +352,12 @@ Today's Progress: Today we finshed up the gihub search app by creating a ui func
 Thoughts: APIs are difficult.
 Link to work: https://github.com/dmking0728/GithubSearchApp
 
+
+
+
+<strong>DAY 37: MARCH 31, 2019</strong> 
+
+Today's Progress: Today I started a basic weather app that pulls your locations current weather info and displays it. This is helping to reinforce how to work with APIs.
+
+Thoughts: APIs are difficult.
+Link to work: https://github.com/dmking0728/weatherapp
