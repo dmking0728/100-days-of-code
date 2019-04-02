@@ -361,3 +361,15 @@ Today's Progress: Today I started a basic weather app that pulls your locations 
 
 Thoughts: APIs are difficult.
 Link to work: https://github.com/dmking0728/weatherapp
+
+
+
+
+
+<strong>DAY 38: APRIL 1, 2019</strong> 
+
+Today's Progress: Today I finshed the weather API project. I used replace method on my own too. 
+
+Thoughts: I really liked this project and instructor. 
+Link to work: https://github.com/dmking0728/weatherapp
+
