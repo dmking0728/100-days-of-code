@@ -373,3 +373,12 @@ Today's Progress: Today I finshed the weather API project. I used replace method
 Thoughts: I really liked this project and instructor. 
 Link to work: https://github.com/dmking0728/weatherapp
 
+
+
+
+<strong>DAY 39: APRIL 4, 2019</strong> 
+
+Today's Progress: Today I started a roll the dice app which i tired to do all on my own without the help of a tutorial. I got a bout half way done with the JS but I then needed help. Baby steps.
+
+Thoughts: I will begin to create projects on my own. 
+Link to work: https://github.com/dmking0728/dice-app
