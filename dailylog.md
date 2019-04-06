@@ -382,3 +382,14 @@ Today's Progress: Today I started a roll the dice app which i tired to do all on
 
 Thoughts: I will begin to create projects on my own. 
 Link to work: https://github.com/dmking0728/dice-app
+
+
+
+
+<strong>DAY 40: APRIL 6, 2019</strong> 
+
+Today's Progress: Today I created a studi Ghibli  app whcih pulls a short summary of one their films and display it in a grid format. This helped to practice with APIs
+
+Thoughts: Fun porject
+Link to work: https://dmking0728.github.io/Studio-Ghibli-Quote-Generator/
+
