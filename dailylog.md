@@ -393,3 +393,12 @@ Today's Progress: Today I created a studi Ghibli  app whcih pulls a short summar
 Thoughts: Fun porject
 Link to work: https://dmking0728.github.io/Studio-Ghibli-Quote-Generator/
 
+
+
+<strong>DAY 41: APRIL 8, 2019</strong> 
+
+Today's Progress: Today I created a JS and CSS powered clock. It uses JS to move the clock hands according to the current time.
+
+Thoughts: It was an alright project. Not too exciting to be honest. 
+Link to work: https://github.com/dmking0728/JS-CSS-Clock
+
