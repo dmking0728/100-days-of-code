@@ -402,3 +402,23 @@ Today's Progress: Today I created a JS and CSS powered clock. It uses JS to move
 Thoughts: It was an alright project. Not too exciting to be honest. 
 Link to work: https://github.com/dmking0728/JS-CSS-Clock
 
+
+
+
+<strong>DAY 42: APRIL 6, 2019</strong> 
+
+Today's Progress: Today I created a studi Ghibli  app whcih pulls a short summary of one their films and display it in a grid format. This helped to practice with APIs
+
+Thoughts: Fun porject
+Link to work: https://dmking0728.github.io/Studio-Ghibli-Quote-Generator/
+
+
+
+<strong>DAY 43: APRIL 9, 2019</strong> 
+
+Today's Progress: Today i attmepted to revisit JavaScript30 but it is still too complex for me. I decided to make an easy DOM manipulation exercise where when you click my name the color of the text changes and when you click it again it changes back. Fun little detour for today's lesson. 
+
+Thoughts: Baby steps
+Link to work: NA
+
+
