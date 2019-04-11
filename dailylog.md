@@ -422,3 +422,13 @@ Thoughts: Baby steps
 Link to work: NA
 
 
+
+
+<strong>DAY 44: APRIL 10, 2019</strong> 
+
+Today's Progress: Today I started my own JS project called that will track if you had fed your cat on today or not. Did mostly HTML CSS work today. Tomorrow I will start with the logic.  
+
+Thoughts: Baby steps
+Link to work: https://github.com/dmking0728/Did-I-Feed-The-Cat
+
+
