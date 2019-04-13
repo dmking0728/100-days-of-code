@@ -432,3 +432,11 @@ Thoughts: Baby steps
 Link to work: https://github.com/dmking0728/Did-I-Feed-The-Cat
 
 
+
+
+<strong>DAY 45: APRIL 13, 2019</strong> 
+
+Today's Progress: Today I started another porject that allows the ciurrent date and time to be displayed on screen for you. Good practice to help me write JS on my own.  
+
+Thoughts: Baby steps
+Link to work: https://github.com/dmking0728/Date-and-Time
