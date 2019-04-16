@@ -440,3 +440,12 @@ Today's Progress: Today I started another porject that allows the ciurrent date 
 
 Thoughts: Baby steps
 Link to work: https://github.com/dmking0728/Date-and-Time
+
+
+
+<strong>DAY 46: APRIL 15, 2019</strong> 
+
+Today's Progress: Still working on Lorem Ipsum project i came up with from yesterdays session.   
+
+Thoughts: Coding on my own is a lot more fun than tutorials.
+Link to work: NA
