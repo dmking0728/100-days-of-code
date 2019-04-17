@@ -449,3 +449,13 @@ Today's Progress: Still working on Lorem Ipsum project i came up with from yeste
 
 Thoughts: Coding on my own is a lot more fun than tutorials.
 Link to work: NA
+
+
+
+
+<strong>DAY 47: APRIL 16, 2019</strong> 
+
+Today's Progress: Still working on Lorem Ipsum project. I got it to output the number of paragraphs that the user selected. Tomorrow I will tie up some losse ends in regards to clearing the screen and copying to cliboard. 
+
+Thoughts: Really enjoying this project and getting to break away from tutorials.
+Link to work: NA
