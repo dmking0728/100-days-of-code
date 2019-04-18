@@ -459,3 +459,13 @@ Today's Progress: Still working on Lorem Ipsum project. I got it to output the n
 
 Thoughts: Really enjoying this project and getting to break away from tutorials.
 Link to work: NA
+
+
+
+
+<strong>DAY 48: APRIL 17, 2019</strong> 
+
+Today's Progress: Still working on Lorem Ipsum project. Today I worked on disabling the generate button once it is clicked.  
+
+Thoughts: Making progress
+Link to work: NA
