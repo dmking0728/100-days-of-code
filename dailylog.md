@@ -469,3 +469,12 @@ Today's Progress: Still working on Lorem Ipsum project. Today I worked on disabl
 
 Thoughts: Making progress
 Link to work: NA
+
+
+
+<strong>DAY 49: APRIL 18, 2019</strong> 
+
+Today's Progress: Worked on my lorem ipsum generator. Created a function that cleared all the lorem ipsum from the screen and re-enabled the input button once the "clear" button has been clicked. Tomorrow I will work on making a button that you can copy all the lorem iosum to your clipboard. 
+
+Thoughts: Learning a lot along the way.
+Link to work: NA
