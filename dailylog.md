@@ -478,3 +478,14 @@ Today's Progress: Worked on my lorem ipsum generator. Created a function that cl
 
 Thoughts: Learning a lot along the way.
 Link to work: NA
+
+
+
+
+<strong>DAY 50: APRIL 20, 2019</strong> 
+
+Today's Progress: Worked on the lorem ipsum project. Almost done with it. Today i figured out a way to copy all the lorem ipsum genrated oin the screen and save it to you clipboard for easy pasting. Tomorrow I will iron out the minor bugs, 
+
+Thoughts: Learning a lot along the way.
+Link to work: NA
+
