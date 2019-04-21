@@ -489,3 +489,11 @@ Today's Progress: Worked on the lorem ipsum project. Almost done with it. Today 
 Thoughts: Learning a lot along the way.
 Link to work: NA
 
+
+
+<strong>DAY 51: APRIL 21, 2019</strong> 
+
+Today's Progress: Worked on the lorem ipsum project. Almost done with it. Today I fixed some bugs and did some styling. Going to style the alert box tomorrow.
+
+Thoughts: Learning a lot along the way.
+Link to work: NA
