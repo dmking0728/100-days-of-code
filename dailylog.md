@@ -497,3 +497,12 @@ Today's Progress: Worked on the lorem ipsum project. Almost done with it. Today 
 
 Thoughts: Learning a lot along the way.
 Link to work: NA
+
+
+
+<strong>DAY 52: APRIL 24, 2019</strong> 
+
+Today's Progress: Today I finshed my Lorem Ipsum project and researched what my next prject should be. I am going to work on a pomodor timer next.
+
+Thoughts: SO glad I completed this on my own (well with the help of stack overflow too).
+Link to work: https://github.com/dmking0728/Lorem-Ipsum-Generator
