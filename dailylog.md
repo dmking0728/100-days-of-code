@@ -506,3 +506,13 @@ Today's Progress: Today I finshed my Lorem Ipsum project and researched what my 
 
 Thoughts: SO glad I completed this on my own (well with the help of stack overflow too).
 Link to work: https://github.com/dmking0728/Lorem-Ipsum-Generator
+
+
+
+
+<strong>DAY 53: APRIL 25, 2019</strong> 
+
+Today's Progress: Spent the majority of my time researching how to make a countdown timer. had no clue how complex it is to create a timer. Makes me really appreciate simple utilities we usue everyday. 
+
+Thoughts: Finding this project to be difficult 
+Link to work: NA
