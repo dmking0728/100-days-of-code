@@ -516,3 +516,13 @@ Today's Progress: Spent the majority of my time researching how to make a countd
 
 Thoughts: Finding this project to be difficult 
 Link to work: NA
+
+
+
+
+<strong>DAY 54: APRIL 27, 2019</strong> 
+
+Today's Progress: I have decided to try another project as the pomodoro one seemed above my skill level. I am now follwoing a tutorial on making a meditation app.
+
+Thoughts: Back to tutorials....
+Link to work: NA
