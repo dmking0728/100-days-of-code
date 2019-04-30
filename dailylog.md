@@ -526,3 +526,13 @@ Today's Progress: I have decided to try another project as the pomodoro one seem
 
 Thoughts: Back to tutorials....
 Link to work: NA
+
+
+
+
+<strong>DAY 55: APRIL 29, 2019</strong> 
+
+Today's Progress: I continued working on the meditation app. Today we created a function to stop and start the song/video. We then moved on to creating a function that will grab the current time of the song and compare it to our set time we let the user choose. 
+
+Thoughts: Back to tutorials....
+Link to work: NA
