@@ -536,3 +536,13 @@ Today's Progress: I continued working on the meditation app. Today we created a 
 
 Thoughts: Back to tutorials....
 Link to work: NA
+
+
+
+<strong>DAY 56: APRIL 30, 2019</strong> 
+
+Today's Progress: Today we finshed up the meditation app. Need to start thinking of my own project ideas to make JS stick even more. 
+
+Thoughts: Keep on keeping on.
+
+Link to work: https://github.com/dmking0728/Meditation-App
