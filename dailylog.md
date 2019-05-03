@@ -546,3 +546,12 @@ Today's Progress: Today we finshed up the meditation app. Need to start thinking
 Thoughts: Keep on keeping on.
 
 Link to work: https://github.com/dmking0728/Meditation-App
+
+
+
+
+<strong>DAY 57: MAY 1, 2019</strong> 
+
+Today's Progress: Started my own project using vanilla JS to create a basic image slider.
+
+Link to work: NA
