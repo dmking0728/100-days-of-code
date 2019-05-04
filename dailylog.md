@@ -555,3 +555,11 @@ Link to work: https://github.com/dmking0728/Meditation-App
 Today's Progress: Started my own project using vanilla JS to create a basic image slider.
 
 Link to work: NA
+
+
+
+<strong>DAY 58: MAY 4, 2019</strong> 
+
+Today's Progress: Still working on the image carousel with no tutorial help. Just me and my research skills.
+
+Link to work: NA
