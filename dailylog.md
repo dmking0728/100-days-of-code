@@ -563,3 +563,11 @@ Link to work: NA
 Today's Progress: Still working on the image carousel with no tutorial help. Just me and my research skills.
 
 Link to work: NA
+
+
+
+DAY 59: MAY 5, 2019
+
+Today's Progress: Still working on the image carousel with no tutorial help. Got a weird bug when incrementing that took me a while to sort out. Finally fiugred it out though. Will be finshing up the design of it in the following days. 
+
+Link to work: NA
