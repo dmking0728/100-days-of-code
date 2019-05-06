@@ -571,3 +571,11 @@ DAY 59: MAY 5, 2019
 Today's Progress: Still working on the image carousel with no tutorial help. Got a weird bug when incrementing that took me a while to sort out. Finally fiugred it out though. Will be finshing up the design of it in the following days. 
 
 Link to work: NA
+
+
+
+DAY 60: MAY 6, 2019
+
+Today's Progress: Still working on the image carousel with no tutorial help. Worked on pagination today but couldn't figure it out. i know it should be super easy to increase the number depending on the slide but I am stumped. I blame my lack of sleep last night. 
+
+Link to work: NA
