@@ -579,3 +579,11 @@ DAY 60: MAY 6, 2019
 Today's Progress: Still working on the image carousel with no tutorial help. Worked on pagination today but couldn't figure it out. i know it should be super easy to increase the number depending on the slide but I am stumped. I blame my lack of sleep last night. 
 
 Link to work: NA
+
+
+DAY 61: MAY 7, 2019
+
+Today's Progress: Still working on the image carousel with no tutorial help. Figured out pagination. Spent most of my time researching an easy way to include swiping gestures for the carousel. May have to include hammer JS to help me out.
+
+Link to work: NA
+
