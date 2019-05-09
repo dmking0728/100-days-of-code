@@ -587,3 +587,11 @@ Today's Progress: Still working on the image carousel with no tutorial help. Fig
 
 Link to work: NA
 
+
+
+DAY 62: MAY 8, 2019
+
+Today's Progress: Worked on the image carousel. Attempted to add swipability....did not go well. Seems too advanced for me atm.  Instead i cleaned up my code a bit and published it to GH. 
+
+Link to work: https://dmking0728.github.io/Image-Carousel/
+
