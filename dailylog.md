@@ -595,3 +595,11 @@ Today's Progress: Worked on the image carousel. Attempted to add swipability....
 
 Link to work: https://dmking0728.github.io/Image-Carousel/
 
+
+
+DAY 63: MAY 11, 2019
+
+Today's Progress: Working on a new project that will take user input text and convert it to title case. So far so good.
+
+Link to work: 
+
