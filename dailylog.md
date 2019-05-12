@@ -603,3 +603,11 @@ Today's Progress: Working on a new project that will take user input text and co
 
 Link to work: 
 
+
+
+DAY 64: MAY 12, 2019
+
+Today's Progress: Still working on title case project. got it to work for the most part excpet I want it to not capitalize articles (a, an, the, and ..etc). Will be working on this tomorrow hopefully. 
+
+Link to work: 
+
