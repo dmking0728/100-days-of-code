@@ -607,7 +607,15 @@ Link to work:
 
 DAY 64: MAY 12, 2019
 
-Today's Progress: Still working on title case project. got it to work for the most part excpet I want it to not capitalize articles (a, an, the, and ..etc). Will be working on this tomorrow hopefully. 
+Today's Progress: Still working on title case project. Got it to work for the most part excpet I want it to not capitalize articles (a, an, the, and ..etc). Will be working on this tomorrow hopefully. 
 
 Link to work: 
 
+
+
+
+DAY 65: MAY 13, 2019
+
+Today's Progress: Still working on title case project. Figured out how to exclude capitalizing articles (a, an, the, and ..etc) in the title. Basically create an array of words you don't want capitalized and then use .include() to check to see if the user submitted array  contains any of these. If it does, it doesn't execute the capitalization code and continues on to the next word in the array. 
+
+Link to work: 
