@@ -619,3 +619,11 @@ DAY 65: MAY 13, 2019
 Today's Progress: Still working on title case project. Figured out how to exclude capitalizing articles (a, an, the, and ..etc) in the title. Basically create an array of words you don't want capitalized and then use .include() to check to see if the user submitted array  contains any of these. If it does, it doesn't execute the capitalization code and continues on to the next word in the array. 
 
 Link to work: 
+
+
+
+
+DAY 66: MAY 14, 2019
+
+Today's Progress: Still working on title case project. Fixed acouple bugs and was working on another one. It is getting late so i will come back to it tm night
+Link to work:
