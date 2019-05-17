@@ -627,3 +627,11 @@ DAY 66: MAY 14, 2019
 
 Today's Progress: Still working on title case project. Fixed acouple bugs and was working on another one. It is getting late so i will come back to it tm night
 Link to work:
+
+
+
+
+DAY 67: MAY 16, 2019
+
+Today's Progress: Still working on title case project. Fixed a couple bugs and was working on another one that popped up. Will continue with it tomorrow. 
+Link to work:
