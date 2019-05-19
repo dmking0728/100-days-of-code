@@ -635,3 +635,18 @@ DAY 67: MAY 16, 2019
 
 Today's Progress: Still working on title case project. Fixed a couple bugs and was working on another one that popped up. Will continue with it tomorrow. 
 Link to work:
+
+
+
+DAY 68: MAY 18, 2019
+
+Today's Progress: Still working on title case project. Fixed a couple bugs and was working on another one that popped up. They keep popping up! 
+Link to work:
+
+
+
+DAY 69: MAY 19, 2019
+
+Today's Progress: Finally finished my title case converter project! Fixed the last bug which was a doozy. Had me stumped for a few days. Really proud of this one.
+
+Link to work: https://dmking0728.github.io/title-case-converter/#
