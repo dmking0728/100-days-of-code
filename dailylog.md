@@ -650,3 +650,18 @@ DAY 69: MAY 19, 2019
 Today's Progress: Finally finished my title case converter project! Fixed the last bug which was a doozy. Had me stumped for a few days. Really proud of this one.
 
 Link to work: https://dmking0728.github.io/title-case-converter/#
+
+
+
+DAY 70: MAY 20, 2019
+
+Today's Progress: Started a react course learning about components and how react works. Very interesting stuff.
+
+Link to work: NA
+
+
+
+DAY 71: MAY 21, 2019
+
+Today's Progress: Working on the react course. Learned about class vs function based components and learned basic syntax and how to display code to the dom via our JS file. It seems like class based components are preferred. 
+Link to work: NA
