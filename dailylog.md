@@ -665,3 +665,10 @@ DAY 71: MAY 21, 2019
 
 Today's Progress: Working on the react course. Learned about class vs function based components and learned basic syntax and how to display code to the dom via our JS file. It seems like class based components are preferred. 
 Link to work: NA
+
+
+
+DAY 72: MAY 22, 2019
+
+Today's Progress: Working on the react course. Learned about JSX and that it allows us to write "html" in our JS files. We can escape this and write regular JS code in our JSX by using braces {}. 
+Link to work: NA
