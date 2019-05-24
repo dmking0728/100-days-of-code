@@ -672,3 +672,12 @@ DAY 72: MAY 22, 2019
 
 Today's Progress: Working on the react course. Learned about JSX and that it allows us to write "html" in our JS files. We can escape this and write regular JS code in our JSX by using braces {}. 
 Link to work: NA
+
+
+
+
+DAY 73: MAY 23, 2019
+
+Today's Progress: Working on the react course. Learned about file structure and how we setup react based projects. Also learned about props and how we can pass customizable data from a parent to a child component. We access the props by like it's part of an object this.props.yourPassedInData. Props cannot be updated.
+
+Link to work: NA
