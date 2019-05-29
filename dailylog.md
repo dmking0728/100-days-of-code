@@ -681,3 +681,11 @@ DAY 73: MAY 23, 2019
 Today's Progress: Working on the react course. Learned about file structure and how we setup react based projects. Also learned about props and how we can pass customizable data from a parent to a child component. We access the props by like it's part of an object this.props.yourPassedInData. Props cannot be updated.
 
 Link to work: NA
+
+
+
+DAY 74: MAY 28, 2019
+
+Today's Progress: Working on the react course. Learned that props can be passed as strings, numbers, booleans, and arrays. In order to pass in numbers and arrays we wrap the vlaues in {}. Had a practice exercise where we had to create a simple slot machine typw thing. I was really lost at first but got kind of close to the solution.
+
+Link to work: NA
