@@ -689,3 +689,11 @@ DAY 74: MAY 28, 2019
 Today's Progress: Working on the react course. Learned that props can be passed as strings, numbers, booleans, and arrays. In order to pass in numbers and arrays we wrap the vlaues in {}. Had a practice exercise where we had to create a simple slot machine typw thing. I was really lost at first but got kind of close to the solution.
 
 Link to work: NA
+
+
+
+DAY 75: MAY 29, 2019
+
+Today's Progress: Working on the react course. Learned that we can loop through arrays in react by using the .map function. We access the propandappend.map to it. We then create an anonymous function and loop through it and tell it what tot do with the data it is looping through. I also learned how to style components in react. We create an ap..css and link and target the component in that file by using .Component name and writing CSS like normal. We then go back to our component file and add it to our div that encomapasses our main code. We use className instead of calss in JSX. We can also use inline styling but we should place it in an object and then call it inside the main code. Was a lot to take in today but loving React so far. 
+
+Link to work: NA
