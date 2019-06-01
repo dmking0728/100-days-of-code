@@ -697,3 +697,11 @@ DAY 75: MAY 29, 2019
 Today's Progress: Working on the react course. Learned that we can loop through arrays in react by using the .map function. We access the propandappend.map to it. We then create an anonymous function and loop through it and tell it what tot do with the data it is looping through. I also learned how to style components in react. We create an ap..css and link and target the component in that file by using .Component name and writing CSS like normal. We then go back to our component file and add it to our div that encomapasses our main code. We use className instead of calss in JSX. We can also use inline styling but we should place it in an object and then call it inside the main code. Was a lot to take in today but loving React so far. 
 
 Link to work: NA
+
+
+
+DAY 76: JUNE 1, 2019
+
+Today's Progress: Working on the react course. Today we learned how to create a react app using npm and the terminal. we then looked at the file structure and where we will be working. 
+
+Link to work: NA
