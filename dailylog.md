@@ -705,3 +705,11 @@ DAY 76: JUNE 1, 2019
 Today's Progress: Working on the react course. Today we learned how to create a react app using npm and the terminal. we then looked at the file structure and where we will be working. 
 
 Link to work: NA
+
+
+
+DAY 77: JUNE 2, 2019
+
+Today's Progress: Working on the react course. Today we learned about modules and how we use import and export to interact with different files. At the bottom of a component we usually need to export whatevre is inside that component. We then import into the index.js file.
+
+Link to work: NA
