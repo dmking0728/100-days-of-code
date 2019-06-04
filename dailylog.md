@@ -713,3 +713,12 @@ DAY 77: JUNE 2, 2019
 Today's Progress: Working on the react course. Today we learned about modules and how we use import and export to interact with different files. At the bottom of a component we usually need to export whatevre is inside that component. We then import into the index.js file.
 
 Link to work: NA
+
+
+
+
+DAY 78: JUNE 3, 2019
+
+Today's Progress: Working on the react course. Learned what we place at the top of every component today and that we creat each components very own .css file and import into the component at the top. Colt gave us a challenge to create a basic pokedex app. I got react app started and tomorrow i will attmept it.
+
+Link to work: NA
