@@ -722,3 +722,10 @@ DAY 78: JUNE 3, 2019
 Today's Progress: Working on the react course. Learned what we place at the top of every component today and that we creat each components very own .css file and import into the component at the top. Colt gave us a challenge to create a basic pokedex app. I got react app started and tomorrow i will attmept it.
 
 Link to work: NA
+
+
+
+DAY 79: JUNE 4, 2019
+
+Today's Progress: Working on the react course. Attmepted to complete the pokedex exercise on my own. I get pretty far by myself to be honest. Just got confused as to where i define my props and where i inserted them so i watched up until there for help. Will continue on my own tomorrow.
+Link to work: NA
