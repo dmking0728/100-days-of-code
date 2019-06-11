@@ -729,3 +729,10 @@ DAY 79: JUNE 4, 2019
 
 Today's Progress: Working on the react course. Attmepted to complete the pokedex exercise on my own. I get pretty far by myself to be honest. Just got confused as to where i define my props and where i inserted them so i watched up until there for help. Will continue on my own tomorrow.
 Link to work: NA
+
+
+
+DAY 80: JUNE 10, 2019
+
+Today's Progress: Working on the react course. I ended up needing to wathc the tutorial to walk me through it. I was having a hard figuring out how the components interacted with each other but they are like digital lego pieces. They fit into each other and are dynamic. Love react so far. 
+Link to work: NA
