@@ -736,3 +736,10 @@ DAY 80: JUNE 10, 2019
 
 Today's Progress: Working on the react course. I ended up needing to wathc the tutorial to walk me through it. I was having a hard figuring out how the components interacted with each other but they are like digital lego pieces. They fit into each other and are dynamic. Love react so far. 
 Link to work: NA
+
+
+
+DAY 81: JUNE 11, 2019
+
+Today's Progress: Working on the react course. Worked on css styling in react a bit today and used a function to use the other images API.
+Link to work: NA
