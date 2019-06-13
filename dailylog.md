@@ -743,3 +743,9 @@ DAY 81: JUNE 11, 2019
 
 Today's Progress: Working on the react course. Worked on css styling in react a bit today and used a function to use the other images API.
 Link to work: NA
+
+
+
+DAY 82: JUNE 12, 2019
+
+Today's Progress: Working on the react course. Worked on making ht epokedex display 2 different sets of 4 pokemon and then used some code to compare the sets exp. Whichever set had a bigger number won. I honestly was really confused the entire time. I still struggle with props. I know what they do but i never know where to place them and where to call them....
