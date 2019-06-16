@@ -749,3 +749,8 @@ Link to work: NA
 DAY 82: JUNE 12, 2019
 
 Today's Progress: Working on the react course. Worked on making ht epokedex display 2 different sets of 4 pokemon and then used some code to compare the sets exp. Whichever set had a bigger number won. I honestly was really confused the entire time. I still struggle with props. I know what they do but i never know where to place them and where to call them....
+
+
+DAY 83 + 84: JUNE 12, 2019
+
+Today's Progress: Working on the react course. I frogot to log yesterday so here is a 2 in 1. Yesterday i finshed up styling the pokemon game. I then found a way to upload and host the react "app" on github pages so it is now viewable right on my github! Today we learned about state. State allows us to update either data or UI features of a component. We need to call the constructor FX that basically is boiler plate and lets react know, hey this is a stateful component. Inside that we create an object with key/value pairs we can update as needed. We can then pass these in in our render by stating this.state.value. Kind of confusing but i am grasping the overall process needed to create a stateful component. 
