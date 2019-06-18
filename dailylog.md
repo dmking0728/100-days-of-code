@@ -753,4 +753,11 @@ Today's Progress: Working on the react course. Worked on making the pokedex disp
 
 DAY 83 + 84: JUNE 16, 2019
 
-Today's Progress: Working on the react course. I frogot to log yesterday so here is a 2 in 1. Yesterday i finshed up styling the pokemon game. I then found a way to upload and host the react "app" on github pages so it is now viewable right on my github! Today we learned about state. State allows us to update either data or UI features of a component. We need to call the constructor FX that basically is boiler plate and lets react know, hey this is a stateful component. Inside that we create an object with key/value pairs we can update as needed. We can then pass these in in our render by stating this.state.value. Kind of confusing but i am grasping the overall process needed to create a stateful component. 
+Today's Progress: Working on the react course. I forgot to log yesterday so here is a 2 in 1. Yesterday i finshed up styling the pokemon game. I then found a way to upload and host the react "app" on github pages so it is now viewable right on my github! Today we learned about state. State allows us to update either data or UI features of a component. We need to call the constructor FX that basically is boiler plate and lets react know, hey this is a stateful component. Inside that we create an object with key/value pairs we can update as needed. We can then pass these in in our render by stating this.state.value. Kind of confusing but i am grasping the overall process needed to create a stateful component. 
+
+
+
+DAY 85: JUNE 17, 2019
+
+Today's Progress: Working on the react course. Today we continued to learn about state and how to update it with a event handler. We use onClick and attach to the element we want the to "watch". We need to bind the FX that changes state to our constructor FX. This is a very specific line of code that uses bind() to bind "this" to our component to let react know we are referencing the componenent we are working in. It is confusing but it is just a mandatory chunk of code we place inside our constructor FX so we can use the event handlers. React is difficult but interesting. 
+
