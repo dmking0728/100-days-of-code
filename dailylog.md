@@ -761,3 +761,9 @@ DAY 85: JUNE 17, 2019
 
 Today's Progress: Working on the react course. Today we continued to learn about state and how to update it with a event handler. We use onClick and attach to the element we want the to "watch". We need to bind the FX that changes state to our constructor FX. This is a very specific line of code that uses bind() to bind "this" to our component to let react know we are referencing the componenent we are working in. It is confusing but it is just a mandatory chunk of code we place inside our constructor FX so we can use the event handlers. React is difficult but interesting. 
 
+
+
+DAY 86: JUNE 17, 2019
+
+Today's Progress: Working on the react course. Today he gave us challenge to do to practice using states and event handlers. I got pretty far into it until i had to stop and watch the solution video. Baby steps..
+
