@@ -763,7 +763,7 @@ Today's Progress: Working on the react course. Today we continued to learn about
 
 
 
-DAY 86: JUNE 17, 2019
+DAY 86: JUNE 19, 2019
 
 Today's Progress: Working on the react course. Today he gave us challenge to do to practice using states and event handlers. I got pretty far into it until i had to stop and watch the solution video. Baby steps..
 
