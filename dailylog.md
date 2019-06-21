@@ -767,3 +767,10 @@ DAY 86: JUNE 19, 2019
 
 Today's Progress: Working on the react course. Today he gave us challenge to do to practice using states and event handlers. I got pretty far into it until i had to stop and watch the solution video. Baby steps..
 
+
+
+DAY 87: JUNE 20, 2019
+
+Today's Progress: Working on the react course. Working on the exercise still. got xconfused on what to do next. I needed to bind the function i created into the constructor function above it to make it work. 
+
+
