@@ -774,3 +774,8 @@ DAY 87: JUNE 20, 2019
 Today's Progress: Working on the react course. Working on the exercise still. got xconfused on what to do next. I needed to bind the function i created into the constructor function above it to make it work. 
 
 
+
+DAY 88: JUNE 21, 2019
+
+Today's Progress: Working on the react course. Finshed the exercise. I liked this exercise becuase it shows the structure of how a component is set up. I got help form the solution video but after i erased everything and started from scratch without watching the tutorial. I ended up recreating it on my own successfully.
+
