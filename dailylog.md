@@ -779,3 +779,9 @@ DAY 88: JUNE 21, 2019
 
 Today's Progress: Working on the react course. Finshed the exercise. I liked this exercise becuase it shows the structure of how a component is set up. I got help form the solution video but after i erased everything and started from scratch without watching the tutorial. I ended up recreating it on my own successfully.
 
+
+
+DAY 89: JUNE 24, 2019
+
+Today's Progress: Today I switched things up and worked on updating my portfolio. Lot's of work to be done....refactoring css and photoshopping somethings is what i did today.
+
