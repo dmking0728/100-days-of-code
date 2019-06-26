@@ -785,3 +785,8 @@ DAY 89: JUNE 24, 2019
 
 Today's Progress: Today I switched things up and worked on updating my portfolio. Lot's of work to be done....refactoring css and photoshopping somethings is what i did today.
 
+
+
+DAY 90: JUNE 25, 2019
+
+Today's Progress: Decided to work on my portfolio again. It is almost done. 
