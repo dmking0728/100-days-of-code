@@ -790,3 +790,10 @@ Today's Progress: Today I switched things up and worked on updating my portfolio
 DAY 90: JUNE 25, 2019
 
 Today's Progress: Decided to work on my portfolio again. It is almost done. 
+
+
+
+DAY 91: JUNE 26, 2019
+
+Today's Progress: Decided to work on my portfolio again. Deciding which projects to feature on it.
+
