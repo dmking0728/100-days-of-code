@@ -797,3 +797,9 @@ DAY 91: JUNE 26, 2019
 
 Today's Progress: Decided to work on my portfolio again. Deciding which projects to feature on it.
 
+
+
+DAY 92: JUNE 27, 2019
+
+Today's Progress: Decided to work on my portfolio again. Finished writing up overviews for each project. Tomorrow will work on the footer area and then after launch time!
+
