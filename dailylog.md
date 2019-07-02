@@ -803,3 +803,8 @@ DAY 92: JUNE 27, 2019
 
 Today's Progress: Decided to work on my portfolio again. Finished writing up overviews for each project. Tomorrow will work on the footer area and then after launch time!
 
+
+DAY 93,94, & 95: July 2, 2019
+
+Today's Progress: I was super busy this weekend and spent the past 3 days working nonstop to update my portofolio site. I refactored a ton of code to clean it up a bit and totally revamped the look of it. Super happy with how it turned out. I also updated my resume and cover letter. Will be working on react course tomorrow. 
+
