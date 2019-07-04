@@ -814,3 +814,8 @@ DAY 96: July 2, 2019
 
 Today's Progress: Rewatched the exercise from a few weeks ago to refresh myself. I then replicated the challenge again on my own to make it stick.
 
+
+DAY 97: July 4, 2019
+
+Today's Progress: Working on the React course. TOday he gave us a challenge of having 2 die display and clicking a button to change their values. 
+
