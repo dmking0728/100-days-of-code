@@ -819,3 +819,9 @@ DAY 97: July 4, 2019
 
 Today's Progress: Working on the React course. TOday he gave us a challenge of having 2 dice display and clicking a button to change their values. 
 
+
+
+DAY 98: July 5, 2019
+
+Today's Progress: Working on the React course. Completed the dice challenge. It was a bit difficult but it really helped to solidify state changes and props. I then uploaded the challenge on my github as a working project visit it here: https://dmking0728.github.io/Dice-App-React/
+
