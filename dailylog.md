@@ -825,3 +825,10 @@ DAY 98: July 5, 2019
 
 Today's Progress: Working on the React course. Completed the dice challenge. It was a bit difficult but it really helped to solidify state changes and props. I then uploaded the challenge on my github as a working project visit it here: https://dmking0728.github.io/Dice-App-React/
 
+
+
+DAY 99: July 6, 2019
+
+Today's Progress: Working on the React course. Today we discussed using a callback form if we need to make changes that rely on the current state. AN example of this would be updating a score. We need to work with the current score (current state) and add to it to make changes. It will look like this this.setState(curState => ({ count: curState.count + 1 }));
+We then discussed making changes o a nested object (an array for axample in the state). We make a copy o fthe current array and then update it and add it to tha tupdate copy. We can do this by using the spread operator which looks like this ...arrayName. We also learne dthat state should not contain many things. If it changes freuqeuntly that put it in state otherwise jsut use it as a prop. We pass data down to child components. 
+
