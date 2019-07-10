@@ -836,3 +836,9 @@ We then discussed making changes o a nested object (an array for axample in the 
 DAY 100: July 7, 2019
 
 Today's Progress: Working on the React course. Today we worked on a small app that was a random lottery number generator. It was kind of confusing to be honest but it helped to reinforce certain ideas. 
+
+
+DAY 101: July 9, 2019
+
+Today's Progress: Spent some time job hunting and then I brushed up on my JavaScript interview questions as I have 2 initial phoe screenings coming up. 
+
