@@ -846,5 +846,5 @@ Today's Progress: Spent some time job hunting and then I brushed up on my JavaSc
 
 DAY 102: July 10, 2019
 
-Today's Progress: Working on a react exercise that will track how many a coin is heads and tales. I got the initial project up and linked all the components. Tomorrow i will work on state and how to structure it out. 
+Today's Progress: Working on a react exercise that will track how many times a coin flip is heads and tales. I got the initial project up and linked all the components. Tomorrow i will work on state and how to structure it out. 
 
